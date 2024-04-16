@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @hacchan4000
+- 👋 Hi, I’m aditya
 - 👀 I’m interested in web dev and robotics
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: him
-- ⚡ Fun fact: ...
 
 <!---
 hacchan4000/hacchan4000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
